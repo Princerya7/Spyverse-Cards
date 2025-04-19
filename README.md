@@ -22,7 +22,7 @@ As a fan of the Indian Spy Universe, I wanted to create something fun and cinema
 [Click here to see it live](https://github.com/Princerya7/Spyverse-Cards))  
 
 ## 🙋‍♂️ About Me
-I'm Prince Arya, a passionate BCA student and web development enthusiast.  
+I'm Prince Arya, a passionate BSC student and web development enthusiast.  
 Connect with me: [GitHub](https://github.com/Princerya7) | [Email](mailto:princerya77@gmail.com)
 
 ## 🤝 Suggestions & Contributions Welcome
